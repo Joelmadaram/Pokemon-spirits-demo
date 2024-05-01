@@ -1,3 +1,7 @@
+.div {
+    display:inline-block;
+}
+
 .pokemon {
     display: inline-block;
     text-align: center;
